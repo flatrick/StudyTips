@@ -1,13 +1,31 @@
 # Konsten att lära sig
 
-## Grunder
+## 1. Grunder
 
 All form av inlärning baseras på repetition, men det viktiga är att repetitionen kopplas till något som du redan känner till.
 Detta kallas för "**meningsfull repetition**", utan detta så blir det svårt att **skapa kopplingar i våra hjärnor som vi använder oss utav för att "hitta tillbaka" till ett minne/kunskap**.
-Det är också otroligt viktigt att inse att **vi ofta tror att vi kan något efter att ha läst samma text flera gånger under en dag, men det som egentligen sker är att vi känner igen texten**.
+
+Det är också otroligt viktigt att inse att **vi ofta tror att vi kan något efter att ha läst samma text flera gånger under en dag, men det som egentligen sker är att vi känner igen texten**.  
 När du kan **återberätta vad som står i texten utan stödord och utan att ha tittat i boken på över 30 sekunder**, då har innehållet börja fastna i ditt långstidsminne. Med andra ord, du är på god väg att ha lärt dig texten.
 
-## Mnemoteknik
+### Viktiga punkter
+
+Hur man tar till sig kunskap på bästa möjliga vis är självklart en viktig punkt för att lyckas.
+Men en ännu viktigare punkt med alla projekt vi försöker oss på är att identifiera vad som kan stoppa oss från att lyckas.
+
+* Har jag tillräckligt med tid att lägga på detta?
+  * Behöver jag (tillfälligt) sluta med något för att få tiden att räcka till?
+* Har jag allt jag behöver?
+  * böcker
+  * online-tjänster
+  * tillgång till någon som kan/redan gjort samma sak innan som jag kan fråga om råd
+  * verktyg
+  * m.m
+* Varför vill jag göra detta?
+  * Om jag inte lyckas, har det en negativ påverkan på mitt liv?
+  * Om jag lyckas, hur förbättrar det mitt liv?
+
+## 2. Mnemoteknik
 
 Ett sätt att skapa mer meningsfull repetition är att aktivera så många sinnen som möjligt, detta då det du försöker lära dig går att komma ihåg genom flera kopplingar från syn, doft, smak, hörsel och känsel.
 
@@ -23,14 +41,14 @@ Genom att repetera "Sara, Ställning, Andning, Riktning, Avfyrning" så kan vi l
 
 [För mer info, se denna länk](https://sv.wikipedia.org/wiki/Mnemoteknik)
 
-## Studiedagbok
+## 3. Studiedagbok
 
-Genom att föra dagbok över vad vi lärt oss, men i formen av antingen korta förklaringar eller bara stödord, kan vara en stor hjälp.
-Med en studiedagbok så kan vi snabbt se över saker vi nyligen studerat och bara genom att titta på listan och försöka komma ihåg vad dessa stödord/meningar betyder i sin helhet, kommer vi att skapa starkare kopplingar som gör det lättare att komma ihåg i framtiden.
+Genom att föra dagbok över vad vi lärt oss, men i formen av antingen korta förklaringar eller bara stödord, kan vara en stor hjälp.  
+Med en studiedagbok så kan vi snabbt se över saker vi nyligen studerat och bara genom att titta på listan och försöka komma ihåg vad dessa stödord/meningar betyder i sin helhet, kommer vi att skapa starkare kopplingar som gör det lättare att komma ihåg i framtiden.  
 Att gå tillbaka och se över vad vi lärt oss är viktigt om vi verkligen vill lära oss något för resten av våra liv, och inte bara inför provet som kommer!  
 Men du kommer definitivt ha en större chans att få alla rätt på provet om du följer dessa tips.
 
-## Lektionstips
+## 4. Lektionstips
 
 * Oroa dig inte om du inte förstår ett specifikt ord, uttryck eller koncept, skriv ner det och ta reda på vad det var efteråt.
   * Det är aldrig fel att fråga en lärare om något du inte förstår; det är deras jobb att förklara sådant du inte förstår
@@ -46,7 +64,7 @@ Men du kommer definitivt ha en större chans att få alla rätt på provet om du
   * Prata med dina klasskamrater om det ni gick igenom under lektionen
     * Genom att prata om det ni lärt er så kommer kunskapen att fortare fastna eftersom att du måste bearbeta kunskapen
 
-## Tips för studier hemma
+## 5. Tips för studier hemma
 
 * Det första du bör göra är att se till att du har en arbetsplats där du kan arbeta ostört.
   * Alla notifikationer är distraktioner, allt som får dig att tänka på något annat, om så bara för några sekunder, är ett störningsmoment och måste därmed bort medan du studerar
