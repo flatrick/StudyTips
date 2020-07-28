@@ -7,7 +7,7 @@ Detta kallas för "**meningsfull repetition**", utan detta så blir det svårt a
 
 Det är också otroligt viktigt att inse att **vi ofta tror att vi kan något efter att ha läst samma text flera gånger under en dag, men det som egentligen sker är att vi känner igen texten**.  
 När du kan **återberätta vad som står i texten utan stödord och utan att ha tittat i boken på över 30 sekunder**, då har innehållet börja fastna i ditt långstidsminne.  
-För att kunna komma ihåg texten en längre tid (vilket målet borde vara för all inlärning) behöver du repetera detta över flera dagar till veckor, beroende på hur komplicerat ämnet är.
+För att kunna komma ihåg texten en längre tid (vilket målet borde vara för all inlärning) behöver du repetera detta över flera dagar till veckor, längre tid ju mer komplicerat ämnet är.
 
 ### Förberedelser
 
