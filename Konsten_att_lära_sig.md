@@ -6,9 +6,10 @@ All form av inlärning baseras på repetition, men det viktiga är att repetitio
 Detta kallas för "**meningsfull repetition**", utan detta så blir det svårt att **skapa kopplingar i våra hjärnor som vi använder oss utav för att "hitta tillbaka" till ett minne/kunskap**.
 
 Det är också otroligt viktigt att inse att **vi ofta tror att vi kan något efter att ha läst samma text flera gånger under en dag, men det som egentligen sker är att vi känner igen texten**.  
-När du kan **återberätta vad som står i texten utan stödord och utan att ha tittat i boken på över 30 sekunder**, då har innehållet börja fastna i ditt långstidsminne. Med andra ord, du är på god väg att ha lärt dig texten.
+När du kan **återberätta vad som står i texten utan stödord och utan att ha tittat i boken på över 30 sekunder**, då har innehållet börja fastna i ditt långstidsminne.  
+För att kunna komma ihåg texten en längre tid (vilket målet borde vara för all inlärning) behöver du repetera detta över flera dagar till veckor, beroende på hur komplicerat ämnet är.
 
-### Viktiga punkter
+### Förberedelser
 
 Hur man tar till sig kunskap på bästa möjliga vis är självklart en viktig punkt för att lyckas.
 Men en ännu viktigare punkt med alla projekt vi försöker oss på är att identifiera vad som kan stoppa oss från att lyckas.
